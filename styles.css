@@ -24,3 +24,9 @@ h3{
     margin: 0 auto;
 }
 
+table{
+	border:1px inset rgb(128, 128, 128);
+}
+td{
+	padding:1px;
+}
