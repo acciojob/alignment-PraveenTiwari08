@@ -3,13 +3,13 @@ h3{
 	display:flex;
 	justify-content:center;
 }
-/* #table-1 td:nth-child(even) {
+#table-1 td:nth-child(even) {
     text-align: center;
 }
 
 #table-1 td:nth-last-child(1) {
     text-align: right;
-} */
+}
 
 #table-3 tr:first-child {
     background-color: green;
